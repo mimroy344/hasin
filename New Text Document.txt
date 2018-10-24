@@ -1,5 +1,5 @@
 1.age calculate program
-2.ternary condition 3 ta 
+// 2.ternary condition 3 ta 
 3.series (buji ny)
 
 
